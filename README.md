@@ -3,9 +3,8 @@ Django app to allow users to convert their speech into text and send that text a
 
 # Commands to Setup the environment and run the server
 
-> git clone https://github.com/ehtisham91/Django-Speech-to-text-Chat.git
 
-> cd Django-Speech-to-text-Chat
+> cd Speech-to-text
 
 > virtualenv venv
 
